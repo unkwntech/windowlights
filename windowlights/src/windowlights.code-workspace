@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "windowlights",
+			"path": ".."
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "iterator": "cpp",
+            "map": "cpp",
+            "set": "cpp",
+            "xtree": "cpp",
+            "*.rh": "cpp",
+            "ostream": "cpp",
+            "system_error": "cpp"
+        }
+    }
+}
